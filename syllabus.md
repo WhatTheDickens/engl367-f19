@@ -24,7 +24,7 @@ Final meeting: xxxx
 
 *We'll spend the first week of class getting connected to each other and familiarizing ourselves with some tools designed to help us collaborate.* 
 
-*Our goal will not be to discover who knows the most or writes the best. Instead, it will be to work together to improve everyone's understanding of the course material and everyone's ability to think critically and communicate effectively about literature.*
+*Our goal this semester will not be to discover who knows the most or writes the best. Instead, it will be to work together to improve everyone's understanding of the course material and everyone's ability to think critically and communicate effectively about literature.*
 
 #### Introduction: Readings
 
@@ -39,7 +39,7 @@ Final meeting: xxxx
 
 - T 9/3 Carlyle, *Sartor Resartus*
 - R 9/5 Carlyle, *Past and Present*; Mill, *Autobiography*
-&nbsp;
+
 - T 9/10 Lovelace, <https://archive.org/details/adaenchantressof00tool>; Martineau, xxx; Eliot, xxx
 - R 9/12 Shelley, "England in 1819"; E. B. Browning, "The Cry of the Children"; Chartist poetry
 
@@ -62,16 +62,16 @@ Final meeting: xxxx
 
 ### III. Connected selves
 
+*What connects souls to bodies, to nature, and to other souls? Emily Brontë's attempt to answer this question disturbed some of her contemporaries.*
 
-
-#### Connected selves: readings
+#### Connected selves: Readings
 
 - T 9/17 Brontë, *Wuthering Heights*
 - R 9/19 Brontë, *Wuthering Heights*
-&nbsp;
+
 - T 9/24 Brontë, *Wuthering Heights*; draft first paragraph for essay due
 - R 9/26 Brontë, *Wuthering Heights*
-&nbsp;
+
 - T 10/1 Brontë, *Wuthering Heights*
 - R 10/3 Brontë, *Wuthering Heights*
 
@@ -107,7 +107,7 @@ Final meeting: xxxx
 
 - T 10/8 Selections on evolution
 - R 10/10 Tennyson, Selections from *In Memoriam*
-&nbsp;
+
 - T 10/15: No class
 - R 10/17: Tennyson, Selections from *In Memoriam*; essay first draft due
 
@@ -133,10 +133,10 @@ Final meeting: xxxx
 
 - T 10/22 Dickens, *Great Expectations*
 - R 10/24 Dickens, *Great Expectations*
-&nbsp;
+
 - T 10/29 Dickens, *Great Expectations*
 - R 10/31 Dickens, *Great Expectations*
-&nbsp;
+
 - T 11/5 Dickens, *Great Expectations*; essay due
 - R 11/7 Dickens, *Great Expectations*
 
@@ -168,14 +168,14 @@ Final meeting: xxxx
 
 As the nineteenth-century drew to a close, some writers explored themes and aesthetic modes that simultaneously drew on the past and pointed the way toward the literary and political future. Our final readings of the semester represent a few examples.
 
-#### Connected times: readings
+#### Connected times: Readings
 
 - T 11/12 Wilde, "Ballad of Reading Gaol"; from "De Profundis"
 - R 11/14 Morris, poetry; "How We Live and How We Might Live"
-&nbsp;
+
 - T 11/19 Levy, *Reuben Sachs*
 - R 11/21 Levy, *Reuben Sachs*
-&nbsp;
+
 - T 11/26 Levy, *Reuben Sachs*
 - R 11/28: No class
 
