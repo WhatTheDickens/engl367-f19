@@ -22,9 +22,9 @@ Final meeting: xxxx
 
 ### I. Introduction
 
-*We'll spend the first week of class getting connected to each other and familiarizing ourselves with some tools designed to help us collaborate. 
+*We'll spend the first week of class getting connected to each other and familiarizing ourselves with some tools designed to help us collaborate.* 
 
-Our goal will not be to discover who knows the most or writes the best. Instead, it will be to work together to improve everyone's understanding of the course material and everyone's ability to think critically and communicate effectively about literature.*
+*Our goal will not be to discover who knows the most or writes the best. Instead, it will be to work together to improve everyone's understanding of the course material and everyone's ability to think critically and communicate effectively about literature.*
 
 #### Introduction: Readings
 
