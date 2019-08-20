@@ -1,29 +1,30 @@
-# Course description
+## Course description
 
 > "What connexion can there have been between many people in the innumerable histories of this world who from opposite sides of great gulfs have, nevertheless, been very curiously brought together!"
 
 Charles Dickens posed this rhetorical question — why even bother with a question mark! — in his 1857 novel *Bleak House*. 
 
-During the Victorian period in England (roughly, 1832-1901), many forces were at work to make humanity more "connected" than it had ever been before. The growth of cities, the development of new modes of transportation (e.g., the railroad) and new modes of communication (e.g., the telegraph) brought people closer than they had ever been before. Advances in scientific knowledge made it possible for them to better grasp their connection to other living things. The ascendancy of a new market form — industrial capitalism — together with its attendant new political form — imperialism — created a new sense of global connectedness. 
+During the Victorian period in England (roughly, 1832-1901), many forces were at work to make humanity more "connected" than it had ever been before. The growth of cities, the development of new modes of transportation and new modes of communication brought people closer than they had ever been before. Advances in scientific knowledge made it possible for them to better grasp their connection to other living things. The ascendancy of a new market form — industrial capitalism — together with its attendant new political form — imperialism — created a new sense of global connectedness. 
 
-Yet these very same forces often seemed to operate as sources of *disconnection*, alienating people from each other, dividing society into unequal and mutually antagonistic "classes," breeding oppressive and inhuman forms of behavior at home and abroad, breaking the continuity between past and present, disrupting belief systems that had given life meaning.
+Yet these very same forces often seemed to operate as sources of *disconnection*, alienating people from each other, dividing society into unequal and mutually antagonistic classes, breeding oppressive and inhumane forms of behavior at home and abroad, breaking the continuity between past and present, disrupting belief systems that had given life meaning.
 
-Our course won't be a comprehensive survey of Victorian literature. Instead, we'll follow the ideas of connection and disconnection through a selection of Victorian fiction, poetry, and prose.
+In this course, we'll follow the ideas of connection and disconnection through a selection of Victorian fiction, poetry, and prose.
 
-And we'll try to do this in a way that fosters and takes advantage of our connections with each other. 
+And we'll try to do this in a way that fosters a sense of connectedness and community among ourselves.
 
-# Syllabus
+## Meetings
 
-## Time: TR 2:30 pm - 4:10 pm
-## Place: Welles 134 
+Tuesdays and Thursdays, 2:30 pm - 4:10 pm, Welles 134 
+
+Final meeting: xxxx
 
 ## Schedule
 
 ### I. Introduction
 
-We'll spend the first week of class getting connected to each other and familiarizing ourselves with some tools designed to help us collaborate. 
+*We'll spend the first week of class getting connected to each other and familiarizing ourselves with some tools designed to help us collaborate. 
 
-Our goal will not be to discover who knows the most or writes the best. Instead, it will be to work together to improve everyone's understanding of the course material and everyone's ability to think critically and communicate effectively about literature.
+Our goal will not be to discover who knows the most or writes the best. Instead, it will be to work together to improve everyone's understanding of the course material and everyone's ability to think critically and communicate effectively about literature.*
 
 #### Introduction: Readings
 
