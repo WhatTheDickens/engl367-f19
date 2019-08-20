@@ -127,7 +127,7 @@ Final meeting: xxxx
 
 ### V. Connected lives
 
-*What makes all the different things we do, and all the things that are done to us, feel like they make up a single, continuous, connected whole: a life? What "connexion" can there be between lives that, on the surface, seem to move on separate tracks? What forces of disconnection in Victorian life moved Charles Dickens to ask these questions, and what did he want his readers to learn from the answers?
+*What makes all the different things we do, and all the things that are done to us, feel like they make up a single, continuous, connected whole: a life? What "connexion" can there be between lives that, on the surface, seem to move on separate tracks? What forces of disconnection in Victorian life moved Charles Dickens to ask these questions, and what did he want his readers to learn from the answers?**
 
 #### Connected lives: Readings
 
@@ -166,7 +166,7 @@ Final meeting: xxxx
 
 ### VI. Connected identities
 
-As the nineteenth-century drew to a close, some writers explored themes and aesthetic modes that simultaneously drew on the past and pointed the way toward the literary and political future. Our final readings of the semester represent a few examples.
+*As the nineteenth-century drew to a close, some writers explored themes and aesthetic modes that simultaneously drew on the past and pointed the way toward the literary and political future. Our final readings of the semester represent a few examples.**
 
 #### Connected times: Readings
 
@@ -203,7 +203,7 @@ As the nineteenth-century drew to a close, some writers explored themes and aest
 
 ### VII. That's a wrap
 
-In our final week, we'll leave time to look back, sum up, and get ready for our final meeting of the semester, where we'll celebrate all we've learned and done together in ENGL 367. 
+*In our final week, we'll leave time to look back, sum up, and get ready for our final meeting of the semester, where we'll celebrate all we've learned and done together in ENGL 367.* 
 
 #### That's a wrap: Activities
 
