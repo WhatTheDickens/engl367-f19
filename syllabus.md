@@ -4,7 +4,7 @@
 
 Charles Dickens posed this rhetorical question — why even bother with a question mark! — in his 1857 novel *Bleak House*. 
 
-During the Victorian period in England (roughly, 1837-1901), many forces were at work to make humanity more "connected" than it had ever been before. The growth of cities and the development of new modes of transportation and communication brought people closer than they had ever been before. Advances in scientific knowledge made it possible for them to better grasp their connection to other living things. The ascendancy of a new market form — industrial capitalism — together with its attendant new political form — imperialism — created a new sense of global connectedness. 
+During the Victorian period in England (roughly, 1837-1901), many forces were at work to make humanity more "connected" than it had ever been before. The growth of cities and the development of new modes of transportation and communication brought people closer geographically and intellectually. Advances in scientific knowledge made it possible for them to better grasp their connection to other living things. The ascendancy of a new market form — industrial capitalism — together with its attendant new political form — imperialism — created a new sense of global connectedness. 
 
 Yet these very same forces often seemed to operate as sources of *disconnection*, alienating people from each other, dividing society into unequal and mutually antagonistic classes, breeding oppressive and inhumane forms of behavior at home and abroad, breaking the continuity between past and present, disrupting belief systems that had given life meaning.
 
@@ -66,8 +66,8 @@ Book one with me [here](https://schacht.youcanbook.me).
 
 - **Contribute to Zotero:** You'll earn up 5 points for contributions to our shared Zotero library. See weekly schedule for due dates.
 - **Collect badges:** You'll earn 2 points (up to a total of 10) for each badge you earn from the Modern Language Association's online course [Understanding the MLA International Bibliography on EBSCO](https://mla.moonami.com/login/index.php). (*To earn these points, you must collect the badges and share them with me before 30 September 2019.*)
-- **Blog:** You'll earn up to 15 points for 3 blog posts on the [Nineteenth-Century Studies web site](https://c19.sunygeneseoenglish.org). See weekly schedule for due dates.
-- **Write a critical essay:** You'll earn up to 20 points for an essay you'll write that engages meaningfully with an existing critical perspective on one or more works on the syllabus. Draft first paragraph (2 points) due 9/24. Draft essay (8 points) due 10/17. Completed essay due 11/5.
+- **Blog:** You'll earn up to 15 points for blog posts on the [Nineteenth-Century Studies web site](https://c19.sunygeneseoenglish.org). See weekly schedule for due dates.
+- **Write a critical essay:** You'll earn up to 20 points for an essay you'll write that engages meaningfully with an existing critical perspective on one or more works on the syllabus. Draft first paragraph (2 points) due **9/24**. Draft essay (8 points) due **10/17**. Completed essay due **11/5**.
 - **Participate in online discussion:** You'll earn up to 20 points for contributions you make to online discussion using annotation tools and other means. See weekly schedule for due dates.
 - **Contribute to a group project:** You'll earn up to 30 points for a project you'll develop with a group of your peers. Due at final meeting.
 - **Complete all assigned work:** No matter how many points you earn for the activities above, you won’t earn a passing grade in the course unless you complete *all* assigned activities.
@@ -83,10 +83,10 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 ## Think about others
 
-- Express yourself honestly but respectfully
-- Practice [forbearance](https://www.merriam-webster.com/dictionary/forbearance) when offended by others, even as you exercise your right to explain your reasons for taking offense
-- Consider how the world looks to someone who is not you
-- Do your best to address others as they prefer to be addressed
+- Express yourself honestly but respectfully.
+- Practice [forbearance](https://www.merriam-webster.com/dictionary/forbearance) when offended by others, even as you exercise your right to explain your reasons for taking offense.
+- Consider how the world looks to someone who is not you.
+- Do your best to address others as they prefer to be addressed.
 
 ## Schedule
 
