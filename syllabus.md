@@ -19,33 +19,74 @@ And we'll try to do this in a way that fosters a sense of connectedness and comm
 
 ## Appointments
 
-Book one with me [here](https://schacht.youcanbook.me)
+Book one with me [here](https://schacht.youcanbook.me).
 
 ## Individual learning outcomes
 
+*What will you know and be able to do as a result of taking this course?*
+
+- **Make connections** between Victorian literary texts and their social and historical contexts, including social/historical *constructs* such as race, ethnicity, gender, sexuality, class, and ability; social/historical *enterprises* such as philosophy, science, and politics; social/historical *institutions* such as religion and education; and the medium through which human beings communicate their experience of these social and historical contexts, *language*. (See the outcomes for [all 300-level courses in the English major](https://www.geneseo.edu/english/literature-track).)
+- **Locate** and **engage meaningfully**, in discussion and in writing, with existing *critical perspectives* on Victorian texts in context
+
 ## Community learning outcomes
+
+*What will we accomplish in this course as a community?*
+
+- **Produce** new knowledge (new for this community) about Victorian literary texts and their contexts
+- **Share** knowledge about Victorian literary texts and their contexts in accordance with scholarly conventions
 
 ## Assessment
 
+*How will you know if you’ve met the individual outcomes? How will we know if we’ve met the community outcomes?*
+
+- You’ll keep a log of your activities that contribute to our collective effort to produce and share knowledge about Victorian literary texts in context; you'll be able to see at a glance how much you're contributing 
+- Together, in public spaces online, we'll discuss Victorian literary texts in context; you'll be able to judge for yourself how well the class, as a group, is engaging meaningfully with texts in context
+- Together, we'll build a short bibliography of works that provide valuable context for and critical perspectives on Victorian literature
+- You'll receive feedback from me and from your peers regarding how well some of your writing engages meaningfully with texts in context
+
 ## Texts
 
-
+- Graff and Birkenstein, *They Say, I Say: The Moves That Matter in Academic Writing* (4th edition), [ISBN 9780393631678](https://isbn.nu/9780393631678). (If you already own a previous edition from another course, such as INTD 105, there is no need to buy the more recent one, but if you’re buying for the first time, I strongly recommend that you buy the 4th edition and not a used copy of an earlier one.)
+- Robinson, *British Literature II: Romantic Era to the Twentieth Century and Beyond* (2018). English Open Textbooks. 16.
+<https://oer.galileo.usg.edu/english-textbooks/16>
+- Public domain online editions of Emily Brontë, *Wuthering Heights*; Charles Dickens, *Great Expectations*; Amy Levy, *Reuben Sachs*; and other texts. Links to be provided.
 
 ## Tools and accounts
 
+*In the first week of class we'll discuss how we'll use these tools throughout the semester.*
+
+- [English @ SUNY Geneseo](https://sunygeneseoenglish.org)
+- [Zotero](https://www.zotero.org/) 
+- [Hypothesis](https://web.hypothes.is/)
+- [Slack](http://slack.com/)
+
 ## Requirements and evaluation
+
+*Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.*
+
+- *Log your activities: You won’t earn points for this, but you’ll need to do it in order to earn points for other things you do. Activities not logged promptly will not receive points. In class, I’ll show you how you’ll log your activities.*
+- *Contribute to Zotero: You'll earn up 15 points for contributions to our shared Zotero library*
+- *Blog: You'll earn up to 15 points for 3 blog posts on the [Nineteenth-Century Studies web site](https://c19.sunygeneseoenglish.org)*
+- *Write a critical essay: You'll earn up to 20 points for a short critical essay you'll write that engages meaningfully with an existing critical perspective on one or more works on the syllabus.*
+- *Participate in online discussion: You'll earn up to 20 points for contributions you make to online discussion using annotation tools and other means*
+- *Contribute to a group project: You'll earn up to 30 points for a project you'll develop with a group of your peers*
+- *Complete all assigned work:* No matter how many points you earn for the activities above, you won’t earn a passing grade in the course unless you complete *all* assigned activities.
 
 ## Do you have a disability?
 
-<!-- import -->
+SUNY Geneseo will make reasonable accommodations for persons with documented physical, emotional or learning disabilities. Contact Tabitha Buggie-Hunt, Director of [Disability Services](https://www.geneseo.edu/dean_office/disability_services) to discuss needed accommodations as early as possible in the semester.
 
 ## Take care of yourself
 
-<!-- import -->
+- It's hard being a student\! You can improve your chances of success by eating well, getting enough sleep, and making wise choices. **If you need help, ask for it.** [Student Health and Counseling](https://www.geneseo.edu/health) can help you if you're sick or need psychological or emotional support. A variety of [Campus Learning Centers](https://www.geneseo.edu/library/center-academic-excellence), including the [Writing Learning Center](https://www.geneseo.edu/english/writing_center), offer academic support services. **And then there's me.** [Schedule an appointment](http://schacht.youcanbook.me) to see me in my office for help with assignments, to tell me if you're facing basic obstacles to success such as food insecurity, to continue the conversation about readings and topics in the course, or just to check out my Apple IIe computer.
+- If reading or discussing certain kinds of content in this course might prove traumatic for you, let me know and we'll work together to figure out a reasonable solution. You should be prepared for the fact that some works on the syllabus contain depictions of or allusions to violence and sexuality.
 
 ## Think about others
 
-<!-- import -->
+- Express yourself honestly but respectfully
+- Practice [forbearance](https://www.merriam-webster.com/dictionary/forbearance) when offended by others, even as you exercise your right to explain your reasons for taking offense
+- Consider how the world looks to someone who is not you
+- Do your best to address others as they prefer to be addressed
 
 ## Schedule
 
