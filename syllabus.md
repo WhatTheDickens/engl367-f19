@@ -39,10 +39,10 @@ Book one with me [here](https://schacht.youcanbook.me).
 
 *How will you know if you’ve met the individual outcomes? How will we know if we’ve met the community outcomes?*
 
-- You’ll keep a log of your activities that contribute to our collective effort to produce and share knowledge about Victorian literary texts in context. You'll be able to see at a glance how much you're contributing.
 - Together, in public spaces online, we'll discuss Victorian literary texts in context. You'll be able to judge for yourself how well the class, as a group, is engaging meaningfully with texts in context.
 - Together, we'll build a short bibliography of works that provide valuable context for and critical perspectives on Victorian literature.
 - You'll receive feedback from me and from your peers regarding how well some of your writing engages meaningfully with texts in context.
+- You'll receive feedback from me and your peers regarding a group project you'll contribute to.
 
 ## Texts
 
@@ -114,7 +114,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 - T 9/3 Carlyle, *Sartor Resartus*
 - R 9/5 Carlyle, *Past and Present*; Mill, *Autobiography*
 
-- T 9/10 Lovelace, <https://archive.org/details/adaenchantressof00tool>; Martineau, xxx; Eliot, xxx
+- T 9/10 Lovelace, <!-- https://archive.org/details/adaenchantressof00tool -->; Martineau; Eliot
 - R 9/12 Shelley, "England in 1819"; E. B. Browning, "The Cry of the Children"; Chartist poetry
 
 #### The great disconnect: Other activities
