@@ -64,13 +64,13 @@ Book one with me [here](https://schacht.youcanbook.me).
 
 *Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.*
 
-- *Log your activities: You won’t earn points for this, but you’ll need to do it in order to earn points for other things you do. Activities not logged promptly will not receive points. In class, I’ll show you how you’ll log your activities.*
-- *Contribute to Zotero: You'll earn up 15 points for contributions to our shared Zotero library*
-- *Blog: You'll earn up to 15 points for 3 blog posts on the [Nineteenth-Century Studies web site](https://c19.sunygeneseoenglish.org)*
-- *Write a critical essay: You'll earn up to 20 points for a short critical essay you'll write that engages meaningfully with an existing critical perspective on one or more works on the syllabus.*
-- *Participate in online discussion: You'll earn up to 20 points for contributions you make to online discussion using annotation tools and other means*
-- *Contribute to a group project: You'll earn up to 30 points for a project you'll develop with a group of your peers*
-- *Complete all assigned work:* No matter how many points you earn for the activities above, you won’t earn a passing grade in the course unless you complete *all* assigned activities.
+- **Log your activities:** You won’t earn points for this, but you’ll need to do it in order to earn points for other things you do. Activities not logged promptly will not receive points. In class, I’ll show you how you’ll log your activities.
+- **Contribute to Zotero:** You'll earn up 15 points for contributions to our shared Zotero library
+- **Blog:** You'll earn up to 15 points for 3 blog posts on the [Nineteenth-Century Studies web site](https://c19.sunygeneseoenglish.org)
+- **Write a critical essay:** You'll earn up to 20 points for a short critical essay you'll write that engages meaningfully with an existing critical perspective on one or more works on the syllabus.
+- **Participate in online discussion:** You'll earn up to 20 points for contributions you make to online discussion using annotation tools and other means
+- **Contribute to a group project:** You'll earn up to 30 points for a project you'll develop with a group of your peers
+- **Complete all assigned work:** No matter how many points you earn for the activities above, you won’t earn a passing grade in the course unless you complete *all* assigned activities.
 
 ## Do you have a disability?
 
