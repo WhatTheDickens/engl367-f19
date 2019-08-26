@@ -1,10 +1,10 @@
 ## Course description
 
-> "What connexion can there have been between many people in the innumerable histories of this world who from opposite sides of great gulfs have, nevertheless, been very curiously brought together!"
+*"What connexion can there have been between many people in the innumerable histories of this world who from opposite sides of great gulfs have, nevertheless, been very curiously brought together!"*
 
 Charles Dickens posed this rhetorical question — why even bother with a question mark! — in his 1857 novel *Bleak House*. 
 
-During the Victorian period in England (roughly, 1832-1901), many forces were at work to make humanity more "connected" than it had ever been before. The growth of cities, the development of new modes of transportation and new modes of communication brought people closer than they had ever been before. Advances in scientific knowledge made it possible for them to better grasp their connection to other living things. The ascendancy of a new market form — industrial capitalism — together with its attendant new political form — imperialism — created a new sense of global connectedness. 
+During the Victorian period in England (roughly, 1837-1901), many forces were at work to make humanity more "connected" than it had ever been before. The growth of cities and the development of new modes of transportation and communication brought people closer than they had ever been before. Advances in scientific knowledge made it possible for them to better grasp their connection to other living things. The ascendancy of a new market form — industrial capitalism — together with its attendant new political form — imperialism — created a new sense of global connectedness. 
 
 Yet these very same forces often seemed to operate as sources of *disconnection*, alienating people from each other, dividing society into unequal and mutually antagonistic classes, breeding oppressive and inhumane forms of behavior at home and abroad, breaking the continuity between past and present, disrupting belief systems that had given life meaning.
 
@@ -39,10 +39,10 @@ Book one with me [here](https://schacht.youcanbook.me).
 
 *How will you know if you’ve met the individual outcomes? How will we know if we’ve met the community outcomes?*
 
-- You’ll keep a log of your activities that contribute to our collective effort to produce and share knowledge about Victorian literary texts in context; you'll be able to see at a glance how much you're contributing 
-- Together, in public spaces online, we'll discuss Victorian literary texts in context; you'll be able to judge for yourself how well the class, as a group, is engaging meaningfully with texts in context
-- Together, we'll build a short bibliography of works that provide valuable context for and critical perspectives on Victorian literature
-- You'll receive feedback from me and from your peers regarding how well some of your writing engages meaningfully with texts in context
+- You’ll keep a log of your activities that contribute to our collective effort to produce and share knowledge about Victorian literary texts in context. You'll be able to see at a glance how much you're contributing.
+- Together, in public spaces online, we'll discuss Victorian literary texts in context. You'll be able to judge for yourself how well the class, as a group, is engaging meaningfully with texts in context.
+- Together, we'll build a short bibliography of works that provide valuable context for and critical perspectives on Victorian literature.
+- You'll receive feedback from me and from your peers regarding how well some of your writing engages meaningfully with texts in context.
 
 ## Texts
 
@@ -64,12 +64,12 @@ Book one with me [here](https://schacht.youcanbook.me).
 
 *Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.*
 
-- **Log your activities:** You won’t earn points for this, but you’ll need to do it in order to earn points for other things you do. Activities not logged promptly will not receive points. In class, I’ll show you how you’ll log your activities.
-- **Contribute to Zotero:** You'll earn up 15 points for contributions to our shared Zotero library
-- **Blog:** You'll earn up to 15 points for 3 blog posts on the [Nineteenth-Century Studies web site](https://c19.sunygeneseoenglish.org)
-- **Write a critical essay:** You'll earn up to 20 points for a short critical essay you'll write that engages meaningfully with an existing critical perspective on one or more works on the syllabus.
-- **Participate in online discussion:** You'll earn up to 20 points for contributions you make to online discussion using annotation tools and other means
-- **Contribute to a group project:** You'll earn up to 30 points for a project you'll develop with a group of your peers
+- **Contribute to Zotero:** You'll earn up 5 points for contributions to our shared Zotero library. See weekly schedule for due dates.
+- **Collect badges:** You'll earn 2 points (up to a total of 10) for each badge you earn from the Modern Language Association's online course [Understanding the MLA International Bibliography on EBSCO](https://mla.moonami.com/login/index.php). (*To earn these points, you must collect the badges and share them with me before 30 September 2019.*)
+- **Blog:** You'll earn up to 15 points for 3 blog posts on the [Nineteenth-Century Studies web site](https://c19.sunygeneseoenglish.org). See weekly schedule for due dates.
+- **Write a critical essay:** You'll earn up to 20 points for an essay you'll write that engages meaningfully with an existing critical perspective on one or more works on the syllabus. Draft first paragraph (2 points) due 9/24. Draft essay (8 points) due 10/17. Completed essay due 11/5.
+- **Participate in online discussion:** You'll earn up to 20 points for contributions you make to online discussion using annotation tools and other means. See weekly schedule for due dates.
+- **Contribute to a group project:** You'll earn up to 30 points for a project you'll develop with a group of your peers. Due at final meeting.
 - **Complete all assigned work:** No matter how many points you earn for the activities above, you won’t earn a passing grade in the course unless you complete *all* assigned activities.
 
 ## Do you have a disability?
@@ -78,7 +78,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 ## Take care of yourself
 
-- It's hard being a student\! You can improve your chances of success by eating well, getting enough sleep, and making wise choices. **If you need help, ask for it.** [Student Health and Counseling](https://www.geneseo.edu/health) can help you if you're sick or need psychological or emotional support. A variety of [Campus Learning Centers](https://www.geneseo.edu/library/center-academic-excellence), including the [Writing Learning Center](https://www.geneseo.edu/english/writing_center), offer academic support services. **And then there's me.** [Schedule an appointment](http://schacht.youcanbook.me) to see me in my office for help with assignments, to tell me if you're facing basic obstacles to success such as food insecurity, to continue the conversation about readings and topics in the course, or just to check out my Apple IIe computer.
+- It's hard being a student! You can improve your chances of success by eating well, getting enough sleep, and making wise choices. **If you need help, ask for it.** [Student Health and Counseling](https://www.geneseo.edu/health) can help you if you're sick or need psychological or emotional support. A variety of [Campus Learning Centers](https://www.geneseo.edu/library/center-academic-excellence), including the [Writing Learning Center](https://www.geneseo.edu/english/writing_center), offer academic support services. **And then there's me.** [Schedule an appointment](http://schacht.youcanbook.me) to see me in my office for help with assignments, to tell me if you're facing basic obstacles to success such as food insecurity, to continue the conversation about readings and topics in the course, or just to check out my Apple IIe computer.
 - If reading or discussing certain kinds of content in this course might prove traumatic for you, let me know and we'll work together to figure out a reasonable solution. You should be prepared for the fact that some works on the syllabus contain depictions of or allusions to violence and sexuality.
 
 ## Think about others
@@ -96,10 +96,14 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 *Our goal this semester will not be to discover who knows the most or writes the best. Instead, it will be to work together to improve everyone's understanding of the course material and everyone's ability to think critically and communicate effectively about literature.*
 
-#### Introduction: Readings
+#### Introduction: In class
 
 - T 8/27 Victorian connections (and getting connected ourselves)
 - R 8/29 Tools for connection: Blog, Zotero, etc.
+
+#### Introduction: Readings
+
+- R 8/29 Graff and Birkenstein, "Introduction," "Part 1 - They Say," "Part 2 - I Say"
 
 ### II. The great disconnect
 
@@ -116,15 +120,15 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 #### The great disconnect: Other activities
 
 - M 9/2 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 1**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you hope to learn about Victorian literature this semester?* 
+	- **Group 1**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 2**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 9/4 (11:59 pm)
 	- **Group 3**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
 	- **Group 4**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - M 9/9 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 6**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 9/11 (11:59 pm)
 	- **Group 1**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
@@ -136,8 +140,8 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 #### Connected selves: Readings
 
-- T 9/17 Brontë, *Wuthering Heights*
-- R 9/19 Brontë, *Wuthering Heights*
+- T 9/17 Brontë, *Wuthering Heights*; Graff and Birkenstein, "Part 3 - Tying it All Together"
+- R 9/19 Brontë, *Wuthering Heights*; Graff and Birkenstein, "Chapter 15 - Entering Conversations about Literature"
 
 - T 9/24 Brontë, *Wuthering Heights*; draft first paragraph for essay due
 - R 9/26 Brontë, *Wuthering Heights*
@@ -148,22 +152,22 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 #### Connected selves: Other activities
 
 - M 9/16 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 4**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 9/18 (11:59 pm)
 	- **Group 5**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
 	- **Group 6**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - M 9/23 (11:59 pm)
-	- **Everyone** post to course blog.	
-	- **Group 1**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*	
+	- **Group 1**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 2**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 9/25 (11:59 pm)
 	- **Group 3**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
 	- **Group 4**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - M 9/30 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 6**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 10/2 (11:59 pm)
 	- **Group 1**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
@@ -184,8 +188,8 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 #### Connected species: Other activities
 
 - M 10/7 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 4**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 10/9 (11:59 pm)
 	- **Group 5**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
@@ -213,22 +217,22 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 #### Connected lives: Other activities
 
 - M 10/21 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 4**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 10/23 (11:59 pm)
 	- **Group 5**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
 	- **Group 6**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - M 10/28 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 1**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 1**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 2**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 10/30 (11:59 pm)
 	- **Group 3**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
 	- **Group 4**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - M 11/4 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 6**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 11/6 (11:59 pm)
 	- **Group 1**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
@@ -252,22 +256,22 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 #### Connected times: Other activities
 
 - M 11/11 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 4**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 11/13 (11:59 pm)
 	- **Group 5**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
 	- **Group 6**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - M 11/18 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 1**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What do you need to know about the context for this week's readings in order to understand them better?*
+	- **Group 1**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 2**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 11/20 (11:59 pm)
 	- **Group 3**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
 	- **Group 4**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - M 11/25 (11:59 pm)
-	- **Everyone** post to course blog.
-	- **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarizs in writing (Forums) as a "they say"
+	- **Everyone**: Post to course blog. *What's the most interesting thing you've learned about Victorian literature this semester?*
+	- **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday's reading, add to Zotero, summarize in writing (Forums) as a "they say."
 	- **Group 6**: Identify passages in Tuesday's reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your suprise, perplexity, amazement, or interest. Don't be superficial!
 - W 11/26 Break
 
