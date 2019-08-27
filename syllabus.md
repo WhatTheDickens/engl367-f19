@@ -114,8 +114,8 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 - T 9/3 Thomas Carlyle, [excerpts from *Sartor Resartus*](https://marginalia.sunygeneseoenglish.org/sartor-resartus/the-everlasting-no/)
 - R 9/5 Carlyle, [excerpts from *Past and Present*](https://marginalia.sunygeneseoenglish.org/carlyle-past-and-present/democracy/); John Stuart Mill, [excerpts from *Autobiography*](https://marginalia.sunygeneseoenglish.org/mill-autobiography/)
 
-- T 9/10 Ada Lovelace, <!-- https://archive.org/details/adaenchantressof00tool -->; Martineau; Eliot
-- R 9/12 Shelley, ["England in 1819"](https://rpo.library.utoronto.ca/poems/england-1819); E. B. Browning, ["The Cry of the Children"](https://rpo.library.utoronto.ca/poems/cry-children); Chartist poetry
+- T 9/10 Ada Lovelace<!-- https://archive.org/details/adaenchantressof00tool -->; Harriet Martineau; George Eliot
+- R 9/12 Percy Bysshe Shelley, ["England in 1819"](https://rpo.library.utoronto.ca/poems/england-1819); E. B. Browning, ["The Cry of the Children"](https://rpo.library.utoronto.ca/poems/cry-children); Chartist poetry
 
 #### The great disconnect: Other activities
 
@@ -140,7 +140,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 #### Connected selves: Readings
 
-- T 9/17 Brontë, *Wuthering Heights*; Graff and Birkenstein, "Part 3 - Tying it All Together"
+- T 9/17 Emily Brontë, *Wuthering Heights*; Graff and Birkenstein, "Part 3 - Tying it All Together"
 - R 9/19 Brontë, *Wuthering Heights*; Graff and Birkenstein, "Chapter 15 - Entering Conversations about Literature"
 
 - T 9/24 Brontë, *Wuthering Heights*; draft first paragraph for essay due
@@ -180,7 +180,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 #### Connected species: Readings
 
 - T 10/8 Selections on evolution
-- R 10/10 Tennyson, Selections from *In Memoriam*
+- R 10/10 Alfred Tennyson, Selections from *In Memoriam*
 
 - T 10/15: No class
 - R 10/17: Tennyson, Selections from *In Memoriam*; essay first draft due
@@ -205,7 +205,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 #### Connected lives: Readings
 
-- T 10/22 Dickens, *Great Expectations*
+- T 10/22 Charles Dickens, *Great Expectations*
 - R 10/24 Dickens, *Great Expectations*
 
 - T 10/29 Dickens, *Great Expectations*
@@ -244,10 +244,10 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 #### Connected times: Readings
 
-- T 11/12 Wilde, "Ballad of Reading Gaol"; from "De Profundis"
-- R 11/14 Morris, poetry; "How We Live and How We Might Live"
+- T 11/12 Oscar Wilde, "Ballad of Reading Gaol"; from "De Profundis"
+- R 11/14 William Morris, poetry; "How We Live and How We Might Live"
 
-- T 11/19 Levy, *Reuben Sachs*
+- T 11/19 Amy Levy, *Reuben Sachs*
 - R 11/21 Levy, *Reuben Sachs*
 
 - T 11/26 Levy, *Reuben Sachs*
