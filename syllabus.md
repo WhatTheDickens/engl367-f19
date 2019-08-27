@@ -111,11 +111,11 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 #### The great disconnect: Readings
 
-- T 9/3 Carlyle, *Sartor Resartus*
-- R 9/5 Carlyle, *Past and Present*; Mill, *Autobiography*
+- T 9/3 Thomas Carlyle, [excerpts from *Sartor Resartus*](https://marginalia.sunygeneseoenglish.org/sartor-resartus/the-everlasting-no/)
+- R 9/5 Carlyle, [excerpts from *Past and Present*](https://marginalia.sunygeneseoenglish.org/carlyle-past-and-present/democracy/); John Stuart Mill, [excerpts from *Autobiography*](https://marginalia.sunygeneseoenglish.org/mill-autobiography/)
 
-- T 9/10 Lovelace, <!-- https://archive.org/details/adaenchantressof00tool -->; Martineau; Eliot
-- R 9/12 Shelley, "England in 1819"; E. B. Browning, "The Cry of the Children"; Chartist poetry
+- T 9/10 Ada Lovelace, <!-- https://archive.org/details/adaenchantressof00tool -->; Martineau; Eliot
+- R 9/12 Shelley, ["England in 1819"](https://rpo.library.utoronto.ca/poems/england-1819); E. B. Browning, ["The Cry of the Children"](https://rpo.library.utoronto.ca/poems/cry-children); Chartist poetry
 
 #### The great disconnect: Other activities
 
