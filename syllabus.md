@@ -1,3 +1,6 @@
+ENGL 367 Fall 2019
+------------------
+
 Course description
 ------------------
 
@@ -73,7 +76,7 @@ Requirements and evaluation
 *Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You'll earn points for the activities listed below. You must complete all assigned work to pass the course.*
 
 -   **Contribute to Zotero:** You'll earn up 5 points for contributions to our shared Zotero library. See weekly schedule for due dates.
--   **Collect badges:** You'll earn 2 points (up to a total of 10) for each badge you earn from the Modern Language Association's online course [Understanding the MLA International Bibliography on EBSCO](https://mla.moonami.com/login/index.php). (*To earn these points, you must collect the badges and share them with me before 30 September 2019.*)
+-   **Collect badges:** You'll earn 2 points (up to a total of 10) for each badge you earn from the Modern Language Association's online course [Understanding the MLA International Bibliography on EBSCO](https://mla.moonami.com/login/index.php). (*To earn these points, you must collect the badges and share them with me before 1 October 2019.*)
 -   **Blog:** You'll earn up to 15 points for blog posts on the [Nineteenth-Century Studies web site](https://c19.sunygeneseoenglish.org). See weekly schedule for due dates.
 -   **Write a critical essay:** You'll earn up to 20 points for an essay you'll write that engages meaningfully with an existing critical perspective on one or more works on the syllabus. Draft first paragraph (2 points) due **9/24**. Draft essay (8 points) due **10/17**. Completed essay due **11/5**.
 -   **Participate in online discussion:** You'll earn up to 20 points for contributions you make to online discussion using annotation tools and other means. See weekly schedule for due dates.
@@ -126,7 +129,7 @@ Schedule
 -   T 9/3 Thomas Carlyle, [excerpts from *Sartor Resartus*](https://marginalia.sunygeneseoenglish.org/sartor-resartus/the-everlasting-no/)
 -   R 9/5 Carlyle, [excerpts from *Past and Present*](https://marginalia.sunygeneseoenglish.org/carlyle-past-and-present/democracy/); John Stuart Mill, [excerpts from *Autobiography*](https://marginalia.sunygeneseoenglish.org/mill-autobiography/)
 
--   T 9/10 Ada Lovelace; Harriet Martineau; George Eliot
+-   T 9/10 Ada Lovelace; Harriet Martineau, excerpt from [*Society in America, Vol. I*](https://marginalia.sunygeneseoenglish.org/martineau-society-in-america/); George Eliot, [\"Margaret Fuller and Mary Wollstonecraft\"](https://ncse.ac.uk/periodicals/l/issues/vm2-ncseproduct2110/page/16/)
 -   R 9/12 Percy Bysshe Shelley, ["England in 1819"](https://rpo.library.utoronto.ca/poems/england-1819); E. B. Browning, ["The Cry of the Children"](https://rpo.library.utoronto.ca/poems/cry-children); Chartist poetry
 
 \[expand title=\"The great disconnect: Other activities\"\]
@@ -157,10 +160,10 @@ Schedule
 -   T 9/17 Emily Brontë, *Wuthering Heights*; Graff and Birkenstein, "Part 3 - Tying it All Together"
 -   R 9/19 Brontë, *Wuthering Heights*; Graff and Birkenstein, "Chapter 15 - Entering Conversations about Literature"
 
--   T 9/24 Brontë, *Wuthering Heights*; draft first paragraph for essay due
+-   T 9/24 Brontë, *Wuthering Heights* **(draft first paragraph for essay due)**
 -   R 9/26 Brontë, *Wuthering Heights*
 
--   T 10/1 Brontë, *Wuthering Heights*
+-   T 10/1 Brontë, *Wuthering Heights* **(badges from [Understanding the MLA International Bibliography on EBSCO](https://mla.moonami.com/login/index.php) must be shared with me by this date**)
 -   R 10/3 Brontë, *Wuthering Heights*
 
 \[expand title=\"Connected selves: Other activities\"\]
@@ -199,7 +202,7 @@ Schedule
 -   R 10/10 Alfred Tennyson, Selections from *In Memoriam*
 
 -   T 10/15: No class
--   R 10/17: Tennyson, Selections from *In Memoriam*; essay first draft due
+-   R 10/17: Tennyson, Selections from *In Memoriam* **(essay first draft due)**
 
 \[expand title=\"Connected species: Other activities\"\]
 
@@ -229,7 +232,7 @@ Schedule
 -   T 10/29 Dickens, *Great Expectations*
 -   R 10/31 Dickens, *Great Expectations*
 
--   T 11/5 Dickens, *Great Expectations*; essay due
+-   T 11/5 Dickens, *Great Expectations* **(essay due)**
 -   R 11/7 Dickens, *Great Expectations*
 
 \[expand title=\"Connected lives: Other activities\"\]
