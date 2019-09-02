@@ -116,9 +116,9 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
   - R 9/5 Carlyle, [excerpts from *Past and Present*](https://marginalia.sunygeneseoenglish.org/carlyle-past-and-present/democracy/); John Stuart Mill, [excerpts from *Autobiography*](https://marginalia.sunygeneseoenglish.org/mill-autobiography/)
 
-  - T 9/10 Ada Lovelace; Harriet Martineau, excerpt from [*Society in America, Vol. I*](https://marginalia.sunygeneseoenglish.org/martineau-society-in-america/); George Eliot, ["Margaret Fuller and Mary Wollstonecraft"](https://ncse.ac.uk/periodicals/l/issues/vm2-ncseproduct2110/page/16/)
+  - T 9/10 Ada Lovelace (shared Drive folder); Harriet Martineau, excerpt from [*Society in America, Vol. I*](https://marginalia.sunygeneseoenglish.org/martineau-society-in-america/); George Eliot, ["Margaret Fuller and Mary Wollstonecraft"](https://ncse.ac.uk/periodicals/l/issues/vm2-ncseproduct2110/page/16/)
 
-  - R 9/12 Percy Bysshe Shelley, [“England in 1819”](https://rpo.library.utoronto.ca/poems/england-1819); E. B. Browning, [“The Cry of the Children”](https://marginalia.sunygeneseoenglish.org/short-poems/the-cry-of-the-children/); Chartist poetry
+  - R 9/12 Percy Bysshe Shelley, [“England in 1819”](https://rpo.library.utoronto.ca/poems/england-1819); William Blake, ["The Chimney Sweeper"](https://marginalia.sunygeneseoenglish.org/short-poems/the-chimney-sweeper/), ["London"](https://marginalia.sunygeneseoenglish.org/short-poems/london/); E. B. Browning, [“The Cry of the Children”](https://marginalia.sunygeneseoenglish.org/short-poems/the-cry-of-the-children/), ["The Runaway Slave at Pilgrim's Point"](https://marginalia.sunygeneseoenglish.org/short-poems/the-runaway-slave-at-pilgrims-point/); Edwin Mead, [The Steam King"](https://marginalia.sunygeneseoenglish.org/short-poems/the-steam-king/); E.P., ["The Many and the Few"](https://marginalia.sunygeneseoenglish.org/short-poems/the-many-and-the-few/)
 
 \[expand title="The great disconnect: Other activities"\]
 
