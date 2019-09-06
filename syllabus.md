@@ -130,7 +130,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
       - **Group 6**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
       - **Group 3**: Identify passages in Thursday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - M 9/9 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 2**: Find a peer-reviewed article via MLA database on something in Tuesday’s reading, add to Zotero, summarize in writing (Forums) as a “they say.”
       - **Group 4**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 9/11 (11:59 pm)
@@ -160,21 +160,21 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 \[expand title="Connected selves: Other activities"\]
 
   - M 9/16 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 3**: Find a peer-reviewed article via MLA database on something in Tuesday’s reading, add to Zotero, summarize in writing (Forums) as a “they say.”
       - **Group 2**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 9/18 (11:59 pm)
       - **Group 4**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
       - **Group 1**: Identify passages in Thursday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - M 9/23 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*  
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*  
       - **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday’s reading, add to Zotero, summarize in writing (Forums) as a “they say.”
       - **Group 6**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 9/25 (11:59 pm)
       - **Group 3**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
       - **Group 4**: Identify passages in Thursday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - M 9/30 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 5**: Find a peer-reviewed article via MLA database on something in Tuesday’s reading, add to Zotero, summarize in writing (Forums) as a “they say.”
       - **Group 1**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 10/2 (11:59 pm)
@@ -200,7 +200,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 \[expand title="Connected species: Other activities"\]
 
   - M 10/7 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 6**: Find a peer-reviewed article via MLA database on something in Tuesday’s reading, add to Zotero, summarize in writing (Forums) as a “they say.”
       - **Group 5**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 10/9 (11:59 pm)
@@ -234,21 +234,21 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 \[expand title="Connected lives: Other activities"\]
 
   - M 10/21 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 6**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
       - **Group 4**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 10/23 (11:59 pm)
       - **Group 2**: Find a peer-reviewed article via MLA database on something in Thursday’s reading, add to Zotero, summarize in writing (Forums) as a “they say.”
       - **Group 3**: Identify passages in Thursday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - M 10/28 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 5**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
       - **Group 1**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 10/30 (11:59 pm)
       - **Group 3**: Find a peer-reviewed article via MLA database on something in Thursday’s reading, add to Zotero, summarize in writing (Forums) as a “they say.”
       - **Group 6**: Identify passages in Thursday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - M 11/4 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 4**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
       - **Group 5**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 11/6 (11:59 pm)
@@ -278,14 +278,14 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 \[expand title="Connected times: Other activities"\]
 
   - M 11/11 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 3**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
       - **Group 2**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 11/13 (11:59 pm)
       - **Group 5**: Find a peer-reviewed article via MLA database on something in Thursday’s reading, add to Zotero, summarize in writing (Forums) as a “they say.”
       - **Group 3**: Identify passages in Thursday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - M 11/18 (11:59 pm)
-      - **Everyone**: Post to course blog. *What do you need to know about the context for this week’s readings in order to understand them better?*
+      - **Everyone**: Post to course blog. *Make a connection — any connection — between an idea, theme, character, word, or passage in tomorrow's reading and an idea, theme, character, word, or passage in anything we've read previously.*
       - **Group 2**: Research contextual question(s), adds source info to Zotero, summarize in writing (Forums).
       - **Group 4**: Identify passages in Tuesday’s reading for discussion. (No repeats across your group.) Pick passages that surprise, perplex, amaze, or simply interest you. Leave comments that explain the reasons for your surprise, perplexity, amazement, or interest. Don’t be superficial\!
   - W 11/20 (11:59 pm)
