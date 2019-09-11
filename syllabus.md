@@ -118,7 +118,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
   - T 9/10 Ada Lovelace (shared Drive folder); Harriet Martineau, excerpt from [*Society in America, Vol. I*](https://marginalia.sunygeneseoenglish.org/martineau-society-in-america/); George Eliot, ["Margaret Fuller and Mary Wollstonecraft"](https://marginalia.sunygeneseoenglish.org/eliot-margaret-fuller-and-mary-wollstonecraft/). Find a facsimile of Eliot's essay [here](https://ncse.ac.uk/periodicals/l/issues/vm2-ncseproduct2110/page/16/).
 
-  - R 9/12 Percy Bysshe Shelley, [“England in 1819”](https://rpo.library.utoronto.ca/poems/england-1819); William Blake, ["The Chimney Sweeper"](https://marginalia.sunygeneseoenglish.org/short-poems/the-chimney-sweeper/), ["London"](https://marginalia.sunygeneseoenglish.org/short-poems/london/); E. B. Browning, [“The Cry of the Children”](https://marginalia.sunygeneseoenglish.org/short-poems/the-cry-of-the-children/), ["The Runaway Slave at Pilgrim's Point"](https://marginalia.sunygeneseoenglish.org/short-poems/the-runaway-slave-at-pilgrims-point/); Edwin Mead, [The Steam King"](https://marginalia.sunygeneseoenglish.org/short-poems/the-steam-king/); E.P., ["The Many and the Few"](https://marginalia.sunygeneseoenglish.org/short-poems/the-many-and-the-few/)
+  - R 9/12 Percy Bysshe Shelley, [“England in 1819”](https://marginalia.sunygeneseoenglish.org/short-poems/england-in-1819/); William Blake, ["The Chimney Sweeper"](https://marginalia.sunygeneseoenglish.org/short-poems/the-chimney-sweeper/), ["London"](https://marginalia.sunygeneseoenglish.org/short-poems/london/); E. B. Browning, [“The Cry of the Children”](https://marginalia.sunygeneseoenglish.org/short-poems/the-cry-of-the-children/), ["The Runaway Slave at Pilgrim's Point"](https://marginalia.sunygeneseoenglish.org/short-poems/the-runaway-slave-at-pilgrims-point/); Edwin Mead, [The Steam King"](https://marginalia.sunygeneseoenglish.org/short-poems/the-steam-king/); E.P., ["The Many and the Few"](https://marginalia.sunygeneseoenglish.org/short-poems/the-many-and-the-few/)
 
 \[expand title="The great disconnect: Other activities"\]
 
@@ -145,13 +145,13 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 #### Connected selves: Readings
 
-  - T 9/17 Emily Brontë, *Wuthering Heights*; Graff and Birkenstein, “Part 3 - Tying it All Together”
+  - T 9/17 Emily Brontë, *[Wuthering Heights](https://marginalia.sunygeneseoenglish.org/wuthering-heights/wh-chapter-1/)*, Chapters 1-9; Graff and Birkenstein, “Part 3 - Tying it All Together”
 
-  - R 9/19 Brontë, *Wuthering Heights*; Graff and Birkenstein, “Chapter 15 - Entering Conversations about Literature”
+  - R 9/19 Brontë, *Wuthering Heights*, Chapters 10-16; Graff and Birkenstein, “Chapter 15 - Entering Conversations about Literature”
 
-  - T 9/24 Brontë, *Wuthering Heights* **(draft first paragraph for essay due)**
+  - T 9/24 Brontë, *Wuthering Heights*, Chapters 17-25 **(draft first paragraph for essay due)**
 
-  - R 9/26 Brontë, *Wuthering Heights*
+  - R 9/26 Brontë, *Wuthering Heights*, Chapters 26-34
 
   - T 10/1 Brontë, *Wuthering Heights* **(badges from [Understanding the MLA International Bibliography on EBSCO](https://mla.moonami.com/login/index.php) must be shared with me by this date**)
 
