@@ -75,7 +75,7 @@ Book one with me [here](https://schacht.youcanbook.me).
 
 ## Do you have a disability?
 
-SUNY Geneseo will make reasonable accommodations for persons with documented physical, emotional or learning disabilities. Contact Tabitha Buggie-Hunt, Director of [Disability Services](https://www.geneseo.edu/dean_office/disability_services) to discuss needed accommodations as early as possible in the semester.
+SUNY Geneseo will make reasonable accommodations for persons with documented physical, emotional or learning disabilities. Contact Leah Houk, Interim Coordinator of [Disability Services](https://www.geneseo.edu/dean_office/disability_services) to discuss needed accommodations as early as possible in the semester.
 
 ## Take care of yourself
 
