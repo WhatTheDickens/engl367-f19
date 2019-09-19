@@ -17,7 +17,7 @@ And we’ll try to do this in a way that fosters a sense of connectedness and co
 ## Meetings
 
   - Tuesdays and Thursdays, 2:30 pm - 4:10 pm, Welles 134
-  - Final meeting: Tuesday, December 17, 12:30 - 12 pm - 3:20 pm, Welles 134
+  - Final meeting: Tuesday, December 17, 12 pm - 3:20 pm, Welles 134
 
 ## Appointments
 
