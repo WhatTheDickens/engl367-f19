@@ -185,17 +185,17 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 ### IV. Connected species
 
-*Even before Charles Darwin published his theory of evolution by natural selection in 1859, new ideas about the origins and development of life created a whole new way to undertand humanity’s connection to the rest of nature and the present’s connection to the past. We’ll focus on how one poet, Alfred Tennyson, tried to connect the science of his day to his own grief over the loss of a friend.*
+*Even before Charles Darwin published his theory of evolution by natural selection in 1859, new ideas about the origins and development of life created a whole new way to understand humanity’s connection to the rest of nature and the present’s connection to the past. We’ll focus on how one poet, Alfred Tennyson, tried to connect the science of his day to his own grief over the loss of a friend.*
 
 #### Connected species: Readings
 
-  - T 10/8 Selections on evolution
+  - T 10/8 Selections on evolution: [Chambers](https://marginalia.sunygeneseoenglish.org/chambers-vestiges-of-the-natural-history-of-creation/), [Darwin](https://marginalia.sunygeneseoenglish.org/darwin-on-the-origin-of-species/), [Gosse](https://marginalia.sunygeneseoenglish.org/gosse-father-and-son/), [Huxley](https://marginalia.sunygeneseoenglish.org/huxley-agnosticism-and-christianity/)
 
-  - R 10/10 Alfred Tennyson, Selections from *In Memoriam*
+  - R 10/10 Alfred Tennyson, Selections from *[In Memoriam](https://rpo.library.utoronto.ca/poems/memoriam-h-h-obiit-mdcccxxxiii-all-133-poems)*: 1-15, 19, 21, 22-30, 34-35, 39, 47, 48, 50, 54-59
 
   - T 10/15: No class
 
-  - R 10/17: Tennyson, Selections from *In Memoriam* **(essay first draft due)**
+  - R 10/17: Tennyson, Selections from *[In Memoriam](https://rpo.library.utoronto.ca/poems/memoriam-h-h-obiit-mdcccxxxiii-all-133-poems)*: 64, 67, 70-72, 75, 78, 82-84, 86-89, 91, 93-96, 99, 103-109, 115, 118-121, 123-124, 126-127, 129-131, Epilogue **(essay first draft due)**
 
 \[expand title="Connected species: Other activities"\]
 
