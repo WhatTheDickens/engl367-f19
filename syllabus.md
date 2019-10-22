@@ -219,17 +219,17 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 #### Connected lives: Readings
 
-  - T 10/22 Charles Dickens, *Great Expectations*
+  - T 10/22 Charles Dickens, *[Great Expectations](https://marginalia.sunygeneseoenglish.org/great-expectations/chapter-1/)*, Chapters 1-10
 
-  - R 10/24 Dickens, *Great Expectations*
+  - R 10/24 Dickens, *Great Expectations*, Chapters 11-19
 
-  - T 10/29 Dickens, *Great Expectations*
+  - T 10/29 Dickens, *Great Expectations*, Chapters 20-29
 
-  - R 10/31 Dickens, *Great Expectations*
+  - R 10/31 Dickens, *Great Expectations*, Chapters 30-39
 
-  - T 11/5 Dickens, *Great Expectations* **(essay due)**
+  - T 11/5 Dickens, *Great Expectations*, Chapters 40-49 **(essay due)**
 
-  - R 11/7 Dickens, *Great Expectations*
+  - R 11/7 Dickens, *Great Expectations*, Chapters 50-59
 
 \[expand title="Connected lives: Other activities"\]
 
