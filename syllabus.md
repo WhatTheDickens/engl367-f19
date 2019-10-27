@@ -227,9 +227,9 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
   - R 10/31 Dickens, *Great Expectations*, Chapters 30-39
 
-  - T 11/5 Dickens, *Great Expectations*, Chapters 40-49 **(essay due)**
+  - T 11/5 Dickens, *Great Expectations*, Chapters 40-49
 
-  - R 11/7 Dickens, *Great Expectations*, Chapters 50-59
+  - R 11/7 Dickens, *Great Expectations*, Chapters 50-59 **(essay due by 11:59 pm Friday, 11/8)**
 
 \[expand title="Connected lives: Other activities"\]
 
@@ -307,3 +307,7 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
   - T 12/3 Wrap up, prep for final meeting
   - R 12/5 Prep for final meeting
+
+### VIII. Final meeting
+
+Tuesday, December 17, 12 pm – 3:20 pm, Welles 134
