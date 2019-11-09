@@ -263,11 +263,11 @@ SUNY Geneseo will make reasonable accommodations for persons with documented phy
 
 #### Connected times: Readings
 
-  - T 11/12 Oscar Wilde, “Ballad of Reading Gaol”; from “De Profundis”
+  - T 11/12 Oscar Wilde, [“Ballad of Reading Gaol”](https://rpo.library.utoronto.ca/poems/ballad-reading-gaol); [*De Profundis*](https://marginalia.sunygeneseoenglish.org/wilde-de-profundis/)
 
-  - R 11/14 William Morris, poetry; “How We Live and How We Might Live”
+  - R 11/14 William Morris, ["The Defence of Guenevere"](https://rpo.library.utoronto.ca/poems/defence-guenevere); [“How We Live and How We Might Live”](https://marginalia.sunygeneseoenglish.org/morris-how-we-live-and-how-we-might-live/); Kuttner, ["Blaming Liberalism"](https://drive.google.com/open?id=18e1WIhivv_teih6r92mQe5N_lBMHHro5) (login required)
 
-  - T 11/19 Amy Levy, *Reuben Sachs*
+  - T 11/19 Amy Levy, *[Reuben Sachs](https://drive.google.com/open?id=1K86RU8k9gc5jd1FYPhn32aTalqJ1riXE)* (If not leaving or browsing comments, you can also read *Reuben Sachs* using the [Internet Archive reader](https://archive.org/details/reubensachsaske00levygoog/page/n7))
 
   - R 11/21 Levy, *Reuben Sachs*
 
